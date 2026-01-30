@@ -1,0 +1,30 @@
+SECTION 1
+
+Student 1: Ava
+Grade Level: 10
+Scores: [88, 92, 89]
+Average: 86
+Letter Grade: B
+
+
+Student 2: Liam
+Grade Level: 11
+Scores: [60, 70, 50]
+Average: 60
+Letter Grade: F
+-----------------------------------------
+
+SECTION 2
+
+Hi, my name is Ava and I'm in grade 10."
+Passing: True
+
+Hi, my name is Ava and I'm in grade 11."
+Passing: False
+-----------------------------------------
+
+SECTION 3
+
+After adding a 95 score to Ava:
+New average: 91
+New letter grade: A
